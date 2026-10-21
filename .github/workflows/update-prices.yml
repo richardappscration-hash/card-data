@@ -12,7 +12,7 @@ permissions:
 jobs:
   prices:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -20,12 +20,19 @@ jobs:
         with:
           node-version: 22
 
-      - name: Telecharger et convertir les prix
+      # Chaque jeu est independant: si l'un echoue, les autres sont quand meme publies
+      - name: One Piece (TCGplayer)
+        continue-on-error: true
         run: node collector/build-prices.mjs
 
+      - name: Pokemon (TCGdex, en francais)
+        continue-on-error: true
+        run: node collector/pokemon.mjs
+
       - name: Publier les fichiers modifies
+        if: always()
         run: |
           git config user.name "card-data-bot"
           git config user.email "card-data-bot@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || (git commit -m "Prix du $(date -u +%F)" && git push)
+          git add data library
+          git diff --cached --quiet || (git commit -m "Donnees du $(date -u +%F)" && git push)

@@ -1,0 +1,1563 @@
+{
+ "game": "pokemon",
+ "updatedAt": "2026-10-21T13:35:52.408Z",
+ "groups": [
+  {
+   "label": "Méga-Évolution",
+   "sets": [
+    {
+     "id": "30th-c",
+     "name": "Collection Classique30ᵉ Anniversaire",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2026-09-16",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "30th",
+     "name": "30ᵉ Anniversaire",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2026-09-16",
+     "total": 161,
+     "logo": null
+    },
+    {
+     "id": "me05",
+     "name": "Nuit Noire",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2026-07-17",
+     "total": 120,
+     "logo": "https://assets.tcgdex.net/fr/me/me05/logo"
+    },
+    {
+     "id": "me04",
+     "name": "Chaos Ascendant",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2026-05-22",
+     "total": 122,
+     "logo": "https://assets.tcgdex.net/fr/me/me04/logo"
+    },
+    {
+     "id": "me03",
+     "name": "Équilibre Parfait",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2026-03-27",
+     "total": 124,
+     "logo": "https://assets.tcgdex.net/fr/me/me03/logo"
+    },
+    {
+     "id": "me02.5",
+     "name": "Héros Transcendants",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2026-01-30",
+     "total": 295,
+     "logo": "https://assets.tcgdex.net/fr/me/me02.5/logo"
+    },
+    {
+     "id": "me02",
+     "name": "Flammes Fantasmagoriques",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2025-11-14",
+     "total": 130,
+     "logo": "https://assets.tcgdex.net/fr/me/me02/logo"
+    },
+    {
+     "id": "mep",
+     "name": "MEP Black Star Promos",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2025-09-26",
+     "total": 80,
+     "logo": null
+    },
+    {
+     "id": "me01",
+     "name": "Méga-Évolution",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2025-09-26",
+     "total": 188,
+     "logo": "https://assets.tcgdex.net/fr/me/me01/logo"
+    },
+    {
+     "id": "mee",
+     "name": "Méga-Évolution Énergie",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2025-09-25",
+     "total": 16,
+     "logo": null
+    }
+   ]
+  },
+  {
+   "label": "Écarlate et Violet",
+   "sets": [
+    {
+     "id": "sv10.5w",
+     "name": "Flamme Blanche",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2025-07-17",
+     "total": 173,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv10.5w/logo"
+    },
+    {
+     "id": "sv10.5b",
+     "name": "Foudre Noire",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2025-07-17",
+     "total": 172,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv10.5b/logo"
+    },
+    {
+     "id": "sv10",
+     "name": "Rivalités Destinées",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2025-05-30",
+     "total": 244,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv10/logo"
+    },
+    {
+     "id": "sv09",
+     "name": "Aventures Ensemble",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2025-03-28",
+     "total": 190,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv09/logo"
+    },
+    {
+     "id": "sv08.5",
+     "name": "Évolutions Prismatiques",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2025-01-17",
+     "total": 180,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo"
+    },
+    {
+     "id": "sv08",
+     "name": "Étincelles Déferlantes",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2024-11-08",
+     "total": 252,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv08/logo"
+    },
+    {
+     "id": "sv07",
+     "name": "Couronne Stellaire",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2024-09-13",
+     "total": 175,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv07/logo"
+    },
+    {
+     "id": "sv06.5",
+     "name": "Fable Nébuleuse",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2024-08-02",
+     "total": 99,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv06.5/logo"
+    },
+    {
+     "id": "sv06",
+     "name": "Mascarade Crépusculaire",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2024-05-24",
+     "total": 226,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv06/logo"
+    },
+    {
+     "id": "sv05",
+     "name": "Forces Temporelles",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2024-03-22",
+     "total": 218,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv05/logo"
+    },
+    {
+     "id": "sv04.5",
+     "name": "Destinées de Paldea",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2024-01-26",
+     "total": 245,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv04.5/logo"
+    },
+    {
+     "id": "sv04",
+     "name": "Faille Paradoxe",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-11-03",
+     "total": 266,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv04/logo"
+    },
+    {
+     "id": "sv03.5",
+     "name": "151",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-09-22",
+     "total": 207,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv03.5/logo"
+    },
+    {
+     "id": "sv03",
+     "name": "Flammes Obsidiennes",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-08-11",
+     "total": 230,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv03/logo"
+    },
+    {
+     "id": "sv02",
+     "name": "Évolutions à Paldea",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-06-09",
+     "total": 279,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv02/logo"
+    },
+    {
+     "id": "sv01",
+     "name": "Écarlate et Violet",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-03-31",
+     "total": 258,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv01/logo"
+    },
+    {
+     "id": "sve",
+     "name": "Écarlate et Violet Énergie",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-03-31",
+     "total": 24,
+     "logo": null
+    },
+    {
+     "id": "svp",
+     "name": "SVP Black Star Promos",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-03-31",
+     "total": 202,
+     "logo": null
+    }
+   ]
+  },
+  {
+   "label": "Collection McDonald's",
+   "sets": [
+    {
+     "id": "2024sv",
+     "name": "Collection McDonald's 2024",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2024-12-04",
+     "total": 15,
+     "logo": null
+    },
+    {
+     "id": "2023sv",
+     "name": "Collection McDonald's 2023",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2023-08-01",
+     "total": 15,
+     "logo": null
+    },
+    {
+     "id": "2022swsh",
+     "name": "Collection McDonald's 2022",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2022-08-03",
+     "total": 15,
+     "logo": null
+    },
+    {
+     "id": "2021swsh",
+     "name": "Collection McDonald's 2021",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2021-02-09",
+     "total": 25,
+     "logo": null
+    },
+    {
+     "id": "2019sm-fr",
+     "name": "Collection McDonald's 2019",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2019-10-30",
+     "total": 41,
+     "logo": null
+    },
+    {
+     "id": "2018sm-fr",
+     "name": "Collection McDonald's 2018",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2018-06-13",
+     "total": 40,
+     "logo": null
+    },
+    {
+     "id": "2017sm",
+     "name": "Collection McDonald's 2017",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2017-08-03",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "2016xy",
+     "name": "Collection McDonald's 2016",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2016-08-20",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "2015xy",
+     "name": "Collection McDonald's 2015",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2015-11-27",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "2014xy",
+     "name": "Collection McDonald's 2014",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2014-05-23",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "2013bw",
+     "name": "Collection McDonald's 2013",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2013-11-01",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "2012bw",
+     "name": "Collection McDonald's 2012",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2012-06-15",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "2011bw",
+     "name": "Collection McDonald's 2011",
+     "serie": "Collection McDonald's",
+     "releaseDate": "2011-06-17",
+     "total": 12,
+     "logo": null
+    }
+   ]
+  },
+  {
+   "label": "Épée et Bouclier",
+   "sets": [
+    {
+     "id": "swsh12.5gg",
+     "name": "Zénith Suprême Galerie Galaroise",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2023-01-20",
+     "total": 70,
+     "logo": null
+    },
+    {
+     "id": "swsh12.5",
+     "name": "Zénith Suprême",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2023-01-20",
+     "total": 160,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo"
+    },
+    {
+     "id": "swsh12tg",
+     "name": "Tempête Argentée Galerie de Dresseurs",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-11-11",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "swsh12",
+     "name": "Tempête Argentée",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-11-11",
+     "total": 215,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh12/logo"
+    },
+    {
+     "id": "swsh11",
+     "name": "Origine Perdue",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-09-09",
+     "total": 217,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh11/logo"
+    },
+    {
+     "id": "swsh11tg",
+     "name": "Origine Perdue Galerie de Dresseurs",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-09-09",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "swsh10.5",
+     "name": "Pokémon GO",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-07-01",
+     "total": 88,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh10.5/logo"
+    },
+    {
+     "id": "swsh10tg",
+     "name": "Astres Radieux Galerie de Dresseurs",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-05-27",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "swsh10",
+     "name": "Astres Radieux",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-05-27",
+     "total": 216,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh10/logo"
+    },
+    {
+     "id": "swsh9tg",
+     "name": "Stars Étincelantes Galerie de Dresseurs",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-02-25",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "swsh9",
+     "name": "Stars Étincelantes",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-02-25",
+     "total": 186,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo"
+    },
+    {
+     "id": "swsh8",
+     "name": "Poing de Fusion",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-11-12",
+     "total": 284,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh8/logo"
+    },
+    {
+     "id": "cel25",
+     "name": "Célébrations",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-10-08",
+     "total": 25,
+     "logo": "https://assets.tcgdex.net/fr/swsh/cel25/logo"
+    },
+    {
+     "id": "cel25cc",
+     "name": "Célébrations Collection Classique",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-10-08",
+     "total": 25,
+     "logo": null
+    },
+    {
+     "id": "swsh7",
+     "name": "Évolution Céleste",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-08-27",
+     "total": 237,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo"
+    },
+    {
+     "id": "swsh6",
+     "name": "Règne de Glace",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-06-18",
+     "total": 233,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh6/logo"
+    },
+    {
+     "id": "swsh5",
+     "name": "Styles de combat",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-03-19",
+     "total": 183,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh5/logo"
+    },
+    {
+     "id": "swsh4.5sv",
+     "name": "Destinées Radieuses Coffre Étincelant",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-02-19",
+     "total": 122,
+     "logo": null
+    },
+    {
+     "id": "swsh4.5",
+     "name": "Destinées Radieuses",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-02-19",
+     "total": 73,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh4.5/logo"
+    },
+    {
+     "id": "swsh4",
+     "name": "Voltage Éclatant",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2020-11-13",
+     "total": 203,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh4/logo"
+    },
+    {
+     "id": "swsh3.5",
+     "name": "La Voie du Maître",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2020-09-25",
+     "total": 80,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh3.5/logo"
+    },
+    {
+     "id": "swsh3",
+     "name": "Ténèbres Embrasées",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2020-08-14",
+     "total": 201,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh3/logo"
+    },
+    {
+     "id": "swsh2",
+     "name": "Clash des Rebelles",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2020-05-01",
+     "total": 209,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh2/logo"
+    },
+    {
+     "id": "swsh1",
+     "name": "Épée et Bouclier",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2020-02-07",
+     "total": 216,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh1/logo"
+    },
+    {
+     "id": "swshp",
+     "name": "Promo SWSH",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2019-11-15",
+     "total": 301,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo"
+    }
+   ]
+  },
+  {
+   "label": "Soleil et Lune",
+   "sets": [
+    {
+     "id": "sm12",
+     "name": "Éclipse Cosmique",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-11-01",
+     "total": 271,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm12/logo"
+    },
+    {
+     "id": "sm115",
+     "name": "Destinées Occultes",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-08-23",
+     "total": 69,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm115/logo"
+    },
+    {
+     "id": "sma",
+     "name": "Destinées Occultes Coffre Étincelant",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-08-23",
+     "total": 94,
+     "logo": null
+    },
+    {
+     "id": "sm11",
+     "name": "Harmonie des Esprits",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-08-02",
+     "total": 258,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm11/logo"
+    },
+    {
+     "id": "sm10",
+     "name": "Alliance Infaillible",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-05-03",
+     "total": 234,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm10/logo"
+    },
+    {
+     "id": "det1",
+     "name": "Détective Pikachu",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-03-29",
+     "total": 18,
+     "logo": "https://assets.tcgdex.net/fr/sm/det1/logo"
+    },
+    {
+     "id": "sm9",
+     "name": "Duo de Choc",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-01-31",
+     "total": 196,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm9/logo"
+    },
+    {
+     "id": "sm8",
+     "name": "Tonnerre Perdu",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2018-11-02",
+     "total": 236,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm8/logo"
+    },
+    {
+     "id": "sm7.5",
+     "name": "Majesté Des Dragons",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2018-09-07",
+     "total": 78,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm7.5/logo"
+    },
+    {
+     "id": "sm7",
+     "name": "Tempête Céleste",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2018-08-03",
+     "total": 183,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm7/logo"
+    },
+    {
+     "id": "sm6",
+     "name": "Lumière Interdite",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2018-05-04",
+     "total": 146,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm6/logo"
+    },
+    {
+     "id": "sm5",
+     "name": "Ultra-Prisme",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2018-02-02",
+     "total": 173,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm5/logo"
+    },
+    {
+     "id": "sm4",
+     "name": "Invasion Carmin",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2017-11-03",
+     "total": 125,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm4/logo"
+    },
+    {
+     "id": "sm3.5",
+     "name": "Légendes Brillantes",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2017-10-06",
+     "total": 78,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm3.5/logo"
+    },
+    {
+     "id": "sm3",
+     "name": "Ombres Ardentes",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2017-08-04",
+     "total": 169,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm3/logo"
+    },
+    {
+     "id": "sm2",
+     "name": "Gardiens Ascendants",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2017-05-05",
+     "total": 169,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm2/logo"
+    },
+    {
+     "id": "smp",
+     "name": "Promo SM",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2017-02-03",
+     "total": 248,
+     "logo": null
+    },
+    {
+     "id": "sm1",
+     "name": "Soleil et Lune",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2017-02-03",
+     "total": 163,
+     "logo": "https://assets.tcgdex.net/fr/sm/sm1/logo"
+    }
+   ]
+  },
+  {
+   "label": "Kits du dresseur",
+   "sets": [
+    {
+     "id": "tk-sm-l",
+     "name": "SM Kit du dresseur (Lougarox)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2017-04-21",
+     "total": 18,
+     "logo": null
+    },
+    {
+     "id": "tk-sm-r",
+     "name": "SM Kit du dresseur (Raichu d'Alola)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2017-04-21",
+     "total": 19,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-su",
+     "name": "XY Kit du dresseur (Suicune)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2016-04-27",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-p",
+     "name": "XY Kit du dresseur (Pikachu Libre)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2016-04-27",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-latia",
+     "name": "XY Kit du dresseur (Latias)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2015-04-29",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-latio",
+     "name": "XY Kit du dresseur (Latios)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2015-04-29",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-b",
+     "name": "XY Kit du dresseur (Scalproie)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2014-11-01",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-w",
+     "name": "XY Kit du dresseur (Grodoudou)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2014-11-01",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-sy",
+     "name": "XY Kit du dresseur (Nymphali)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2014-03-12",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-n",
+     "name": "XY Kit du dresseur (Bruyverne)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2014-03-12",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-bw-e",
+     "name": "BW Kit du dresseur (Minitaupe)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2011-09-01",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-bw-z",
+     "name": "BW Kit du dresseur (Zoroark)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2011-09-01",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-hs-r",
+     "name": "HS Kit du dresseur (Raichu)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2010-05-01",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-hs-g",
+     "name": "HS Kit du dresseur (Léviator)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2010-05-01",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-dp-l",
+     "name": "DP Kit dresseur (Lucario)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2007-09-01",
+     "total": 11,
+     "logo": null
+    },
+    {
+     "id": "tk-dp-m",
+     "name": "DP Kit dresseur (Manaphy)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2007-09-01",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "tk-ex-p",
+     "name": "EX Kit dresseur (Positi)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2006-03-01",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "tk-ex-m",
+     "name": "EX Kit dresseur (Négapi)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2006-03-01",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "tk-ex-latia",
+     "name": "EX Kit dresseur (Latias)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2004-07-01",
+     "total": 10,
+     "logo": null
+    },
+    {
+     "id": "tk-ex-latio",
+     "name": "EX Kit dresseur (Latios)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2004-07-01",
+     "total": 10,
+     "logo": null
+    }
+   ]
+  },
+  {
+   "label": "XY",
+   "sets": [
+    {
+     "id": "xy12",
+     "name": "Évolutions",
+     "serie": "XY",
+     "releaseDate": "2016-11-02",
+     "total": 113,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy12/logo"
+    },
+    {
+     "id": "xy11",
+     "name": "Offensive Vapeur",
+     "serie": "XY",
+     "releaseDate": "2016-08-03",
+     "total": 116,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy11/logo"
+    },
+    {
+     "id": "xy10",
+     "name": "Impact des Destins",
+     "serie": "XY",
+     "releaseDate": "2016-05-02",
+     "total": 129,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy10/logo"
+    },
+    {
+     "id": "g1",
+     "name": "Générations",
+     "serie": "XY",
+     "releaseDate": "2016-02-22",
+     "total": 117,
+     "logo": "https://assets.tcgdex.net/fr/xy/g1/logo"
+    },
+    {
+     "id": "xy9",
+     "name": "Rupture Turbo",
+     "serie": "XY",
+     "releaseDate": "2016-02-03",
+     "total": 126,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy9/logo"
+    },
+    {
+     "id": "xy8",
+     "name": "Impulsion Turbo",
+     "serie": "XY",
+     "releaseDate": "2015-11-04",
+     "total": 165,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy8/logo"
+    },
+    {
+     "id": "xy7",
+     "name": "Origines Antiques",
+     "serie": "XY",
+     "releaseDate": "2015-08-12",
+     "total": 101,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy7/logo"
+    },
+    {
+     "id": "xy6",
+     "name": "Ciel Rugissant",
+     "serie": "XY",
+     "releaseDate": "2015-05-06",
+     "total": 112,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy6/logo"
+    },
+    {
+     "id": "dc1",
+     "name": "Double Danger",
+     "serie": "XY",
+     "releaseDate": "2015-03-25",
+     "total": 34,
+     "logo": "https://assets.tcgdex.net/fr/xy/dc1/logo"
+    },
+    {
+     "id": "xy5",
+     "name": "Primo-Choc",
+     "serie": "XY",
+     "releaseDate": "2015-02-04",
+     "total": 164,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy5/logo"
+    },
+    {
+     "id": "xy4",
+     "name": "Vigueur Spectrale",
+     "serie": "XY",
+     "releaseDate": "2014-11-05",
+     "total": 124,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy4/logo"
+    },
+    {
+     "id": "xy3",
+     "name": "Poings Furieux",
+     "serie": "XY",
+     "releaseDate": "2014-08-13",
+     "total": 114,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy3/logo"
+    },
+    {
+     "id": "xy2",
+     "name": "Étincelles",
+     "serie": "XY",
+     "releaseDate": "2014-05-07",
+     "total": 110,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy2/logo"
+    },
+    {
+     "id": "xy1",
+     "name": "XY",
+     "serie": "XY",
+     "releaseDate": "2014-02-05",
+     "total": 146,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy1/logo"
+    },
+    {
+     "id": "xya",
+     "name": "carte alternative A Jaune",
+     "serie": "XY",
+     "releaseDate": "2014-02-05",
+     "total": 6,
+     "logo": null
+    },
+    {
+     "id": "xy0",
+     "name": "Bienvenue à Kalos",
+     "serie": "XY",
+     "releaseDate": "2013-11-08",
+     "total": 39,
+     "logo": "https://assets.tcgdex.net/fr/xy/xy0/logo"
+    },
+    {
+     "id": "xyp",
+     "name": "Promo XY",
+     "serie": "XY",
+     "releaseDate": "2013-10-12",
+     "total": 216,
+     "logo": null
+    }
+   ]
+  },
+  {
+   "label": "Noir & Blanc",
+   "sets": [
+    {
+     "id": "bw10",
+     "name": "Explosion Plasma",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2013-08-14",
+     "total": 105,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw10/logo"
+    },
+    {
+     "id": "bw9",
+     "name": "Glaciation Plasma",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2013-05-08",
+     "total": 122,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw9/logo"
+    },
+    {
+     "id": "bw8",
+     "name": "Tempète Plasma",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2013-02-06",
+     "total": 138,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw8/logo"
+    },
+    {
+     "id": "bw7",
+     "name": "Frontières Franchies",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2012-11-07",
+     "total": 153,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw7/logo"
+    },
+    {
+     "id": "dv1",
+     "name": "Coffre des Dragons",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2012-10-05",
+     "total": 21,
+     "logo": "https://assets.tcgdex.net/fr/bw/dv1/logo"
+    },
+    {
+     "id": "bw6",
+     "name": "Dragons Éxaltés",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2012-08-15",
+     "total": 128,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw6/logo"
+    },
+    {
+     "id": "bw5",
+     "name": "Explorateurs Obscurs",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2012-05-09",
+     "total": 111,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw5/logo"
+    },
+    {
+     "id": "bw4",
+     "name": "Destinées Futures",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2012-02-08",
+     "total": 103,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw4/logo"
+    },
+    {
+     "id": "bw3",
+     "name": "Nobles Victoires",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2011-11-16",
+     "total": 102,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw3/logo"
+    },
+    {
+     "id": "bw2",
+     "name": "Pouvoirs Émergents",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2011-08-31",
+     "total": 98,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw2/logo"
+    },
+    {
+     "id": "bwp",
+     "name": "Promo BW",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2011-04-26",
+     "total": 101,
+     "logo": null
+    },
+    {
+     "id": "bw1",
+     "name": "Noir & Blanc",
+     "serie": "Noir & Blanc",
+     "releaseDate": "2011-04-25",
+     "total": 115,
+     "logo": "https://assets.tcgdex.net/fr/bw/bw1/logo"
+    }
+   ]
+  },
+  {
+   "label": "L'appel des Légendes",
+   "sets": [
+    {
+     "id": "col1",
+     "name": "L'appel des Légendes",
+     "serie": "L'appel des Légendes",
+     "releaseDate": "2011-02-09",
+     "total": 106,
+     "logo": "https://assets.tcgdex.net/fr/col/col1/logo"
+    }
+   ]
+  },
+  {
+   "label": "HeartGold SoulSilver",
+   "sets": [
+    {
+     "id": "hgss4",
+     "name": "Triomphant",
+     "serie": "HeartGold SoulSilver",
+     "releaseDate": "2010-11-03",
+     "total": 103,
+     "logo": "https://assets.tcgdex.net/fr/hgss/hgss4/logo"
+    },
+    {
+     "id": "hgss3",
+     "name": "Indomptable",
+     "serie": "HeartGold SoulSilver",
+     "releaseDate": "2010-08-18",
+     "total": 91,
+     "logo": "https://assets.tcgdex.net/fr/hgss/hgss3/logo"
+    },
+    {
+     "id": "hgss2",
+     "name": "Déchaînement",
+     "serie": "HeartGold SoulSilver",
+     "releaseDate": "2010-05-12",
+     "total": 96,
+     "logo": "https://assets.tcgdex.net/fr/hgss/hgss2/logo"
+    },
+    {
+     "id": "hgssp",
+     "name": "Promo HGSS",
+     "serie": "HeartGold SoulSilver",
+     "releaseDate": "2010-02-11",
+     "total": 25,
+     "logo": null
+    },
+    {
+     "id": "hgss1",
+     "name": "HeartGold SoulSilver",
+     "serie": "HeartGold SoulSilver",
+     "releaseDate": "2010-02-10",
+     "total": 124,
+     "logo": "https://assets.tcgdex.net/fr/hgss/hgss1/logo"
+    }
+   ]
+  },
+  {
+   "label": "Platine",
+   "sets": [
+    {
+     "id": "pl3",
+     "name": "Vainqueurs Suprêmes",
+     "serie": "Platine",
+     "releaseDate": "2009-08-19",
+     "total": 162,
+     "logo": "https://assets.tcgdex.net/fr/pl/pl3/logo"
+    },
+    {
+     "id": "pl2",
+     "name": "Rivaux Émergeants",
+     "serie": "Platine",
+     "releaseDate": "2009-05-16",
+     "total": 120,
+     "logo": "https://assets.tcgdex.net/fr/pl/pl2/logo"
+    },
+    {
+     "id": "pl1",
+     "name": "Platine",
+     "serie": "Platine",
+     "releaseDate": "2009-02-11",
+     "total": 133,
+     "logo": "https://assets.tcgdex.net/fr/pl/pl1/logo"
+    }
+   ]
+  },
+  {
+   "label": "POP",
+   "sets": [
+    {
+     "id": "pop9",
+     "name": "POP Série 9",
+     "serie": "POP",
+     "releaseDate": "2009-03-01",
+     "total": 17,
+     "logo": null
+    },
+    {
+     "id": "pop7",
+     "name": "POP Série 7",
+     "serie": "POP",
+     "releaseDate": "2008-03-01",
+     "total": 17,
+     "logo": null
+    },
+    {
+     "id": "pop4",
+     "name": "POP Série 4",
+     "serie": "POP",
+     "releaseDate": "2006-08-01",
+     "total": 17,
+     "logo": null
+    },
+    {
+     "id": "pop3",
+     "name": "POP Série 3",
+     "serie": "POP",
+     "releaseDate": "2006-04-01",
+     "total": 17,
+     "logo": null
+    },
+    {
+     "id": "pop2",
+     "name": "POP Série 2",
+     "serie": "POP",
+     "releaseDate": "2005-08-01",
+     "total": 17,
+     "logo": null
+    },
+    {
+     "id": "pop1",
+     "name": "POP Série 1",
+     "serie": "POP",
+     "releaseDate": "2004-09-01",
+     "total": 17,
+     "logo": null
+    },
+    {
+     "id": "np",
+     "name": "Promo Nintendo",
+     "serie": "POP",
+     "releaseDate": "2003-10-01",
+     "total": 21,
+     "logo": null
+    }
+   ]
+  },
+  {
+   "label": "Diamant & Perle",
+   "sets": [
+    {
+     "id": "dp7",
+     "name": "Tempête",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2008-11-01",
+     "total": 106,
+     "logo": "https://assets.tcgdex.net/fr/dp/dp7/logo"
+    },
+    {
+     "id": "dp6",
+     "name": "Éveil des Légendes",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2008-08-01",
+     "total": 146,
+     "logo": "https://assets.tcgdex.net/fr/dp/dp6/logo"
+    },
+    {
+     "id": "dp5",
+     "name": "Aube Majestueuse",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2008-05-01",
+     "total": 100,
+     "logo": "https://assets.tcgdex.net/fr/dp/dp5/logo"
+    },
+    {
+     "id": "dp4",
+     "name": "Duels au Sommets",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2008-02-01",
+     "total": 106,
+     "logo": "https://assets.tcgdex.net/fr/dp/dp4/logo"
+    },
+    {
+     "id": "dp3",
+     "name": "Merveilles Secrètes",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2007-11-01",
+     "total": 132,
+     "logo": "https://assets.tcgdex.net/fr/dp/dp3/logo"
+    },
+    {
+     "id": "dp2",
+     "name": "Trésors Mystérieux",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2007-08-01",
+     "total": 124,
+     "logo": "https://assets.tcgdex.net/fr/dp/dp2/logo"
+    },
+    {
+     "id": "dpp",
+     "name": "Promo DP",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2007-05-01",
+     "total": 42,
+     "logo": null
+    },
+    {
+     "id": "dp1",
+     "name": "Diamant & Perle",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2007-05-01",
+     "total": 130,
+     "logo": "https://assets.tcgdex.net/fr/dp/dp1/logo"
+    }
+   ]
+  },
+  {
+   "label": "EX",
+   "sets": [
+    {
+     "id": "ex16",
+     "name": "EX Gardiens du Pouvoir",
+     "serie": "EX",
+     "releaseDate": "2007-02-17",
+     "total": 108,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex16/logo"
+    },
+    {
+     "id": "ex15",
+     "name": "EX Île des Dragons",
+     "serie": "EX",
+     "releaseDate": "2006-11-08",
+     "total": 101,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex15/logo"
+    },
+    {
+     "id": "ex14",
+     "name": "EX Gardiens de Cristal",
+     "serie": "EX",
+     "releaseDate": "2006-08-30",
+     "total": 100,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex14/logo"
+    },
+    {
+     "id": "ex13",
+     "name": "EX Fantômes Holon",
+     "serie": "EX",
+     "releaseDate": "2006-05-03",
+     "total": 111,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex13/logo"
+    },
+    {
+     "id": "ex12",
+     "name": "EX Créateurs de légendes",
+     "serie": "EX",
+     "releaseDate": "2006-02-13",
+     "total": 93,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex12/logo"
+    },
+    {
+     "id": "ex11",
+     "name": "EX Espèces Delta",
+     "serie": "EX",
+     "releaseDate": "2005-10-31",
+     "total": 114,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex11/logo"
+    },
+    {
+     "id": "exu",
+     "name": "EX Forces Cachées Collection Zarbi",
+     "serie": "EX",
+     "releaseDate": "2005-08-22",
+     "total": 28,
+     "logo": null
+    },
+    {
+     "id": "ex10",
+     "name": "EX Forces Cachées",
+     "serie": "EX",
+     "releaseDate": "2005-08-22",
+     "total": 117,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex10/logo"
+    },
+    {
+     "id": "ex9",
+     "name": "EX Émeraude",
+     "serie": "EX",
+     "releaseDate": "2005-05-09",
+     "total": 107,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex9/logo"
+    },
+    {
+     "id": "ex8",
+     "name": "EX Deoxys",
+     "serie": "EX",
+     "releaseDate": "2005-02-01",
+     "total": 108,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex8/logo"
+    },
+    {
+     "id": "ex6",
+     "name": "EX Rouge Feu & Vert Feuille",
+     "serie": "EX",
+     "releaseDate": "2004-09-01",
+     "total": 116,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex6/logo"
+    },
+    {
+     "id": "ex5",
+     "name": "EX Légendes Oubliées",
+     "serie": "EX",
+     "releaseDate": "2004-06-01",
+     "total": 102,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex5/logo"
+    },
+    {
+     "id": "ex4",
+     "name": "EX Team Magma vs Team Aqua",
+     "serie": "EX",
+     "releaseDate": "2004-03-01",
+     "total": 97,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex4/logo"
+    },
+    {
+     "id": "ex3",
+     "name": "EX Dragon",
+     "serie": "EX",
+     "releaseDate": "2003-11-24",
+     "total": 100,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex3/logo"
+    },
+    {
+     "id": "ex2",
+     "name": "EX Tempête de sable",
+     "serie": "EX",
+     "releaseDate": "2003-09-18",
+     "total": 100,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex2/logo"
+    },
+    {
+     "id": "ex1",
+     "name": "EX Rubis & Saphir",
+     "serie": "EX",
+     "releaseDate": "2003-07-01",
+     "total": 109,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex1/logo"
+    }
+   ]
+  },
+  {
+   "label": "e-cards",
+   "sets": [
+    {
+     "id": "ecard2",
+     "name": "Aquapolis",
+     "serie": "e-cards",
+     "releaseDate": "2003-01-15",
+     "total": 186,
+     "logo": "https://assets.tcgdex.net/fr/ecard/ecard2/logo"
+    },
+    {
+     "id": "ecard1",
+     "name": "Expedition",
+     "serie": "e-cards",
+     "releaseDate": "2002-09-15",
+     "total": 165,
+     "logo": "https://assets.tcgdex.net/fr/ecard/ecard1/logo"
+    }
+   ]
+  },
+  {
+   "label": "Neo",
+   "sets": [
+    {
+     "id": "neo4",
+     "name": "Neo Destiny",
+     "serie": "Neo",
+     "releaseDate": "2002-02-28",
+     "total": 113,
+     "logo": "https://assets.tcgdex.net/fr/neo/neo4/logo"
+    },
+    {
+     "id": "neo3",
+     "name": "Neo Revelation",
+     "serie": "Neo",
+     "releaseDate": "2001-09-21",
+     "total": 66,
+     "logo": "https://assets.tcgdex.net/fr/neo/neo3/logo"
+    },
+    {
+     "id": "neo2",
+     "name": "Neo Discovery",
+     "serie": "Neo",
+     "releaseDate": "2001-06-01",
+     "total": 75,
+     "logo": "https://assets.tcgdex.net/fr/neo/neo2/logo"
+    },
+    {
+     "id": "neo1",
+     "name": "Neo Genesis",
+     "serie": "Neo",
+     "releaseDate": "2000-12-16",
+     "total": 111,
+     "logo": "https://assets.tcgdex.net/fr/neo/neo1/logo"
+    }
+   ]
+  },
+  {
+   "label": "Base",
+   "sets": [
+    {
+     "id": "base5",
+     "name": "Team Rocket",
+     "serie": "Base",
+     "releaseDate": "2000-04-24",
+     "total": 83,
+     "logo": "https://assets.tcgdex.net/fr/base/base5/logo"
+    },
+    {
+     "id": "base3",
+     "name": "Fossile",
+     "serie": "Base",
+     "releaseDate": "1999-10-10",
+     "total": 62,
+     "logo": "https://assets.tcgdex.net/fr/base/base3/logo"
+    },
+    {
+     "id": "basep",
+     "name": "Wizards Black Star Promos",
+     "serie": "Base",
+     "releaseDate": "1999-07-01",
+     "total": 26,
+     "logo": null
+    },
+    {
+     "id": "base2",
+     "name": "Jungle",
+     "serie": "Base",
+     "releaseDate": "1999-06-16",
+     "total": 64,
+     "logo": "https://assets.tcgdex.net/fr/base/base2/logo"
+    },
+    {
+     "id": "base1",
+     "name": "Set de Base",
+     "serie": "Base",
+     "releaseDate": "1999-01-09",
+     "total": 102,
+     "logo": null
+    }
+   ]
+  }
+ ]
+}
