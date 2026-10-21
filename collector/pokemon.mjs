@@ -51,7 +51,9 @@ const allSets = await getJson(`${API}/sets`)
 const sets = onlySets ? allSets.filter(s => onlySets.includes(s.id)) : allSets
 console.log(`TCGdex: ${allSets.length} sets en français (${sets.length} traités)`)
 
-const prices = onlySets ? await readJson(PRICES_FILE, {}) : {}
+// TCGdex oublie parfois un prix d'un jour à l'autre: on garde alors le dernier connu
+const previousPrices = await readJson(PRICES_FILE, {})
+const prices = onlySets ? { ...previousPrices } : {}
 const index = []
 let cardTotal = 0, detailOk = 0, withEu = 0, withUs = 0
 
@@ -61,16 +63,24 @@ for (const [i, s] of sets.entries()) {
   // Pokémon TCG Pocket est un jeu mobile: pas de vraies cartes à collectionner
   if (set.serie?.id === 'tcgp' || /pocket/i.test(set.serie?.name || '')) continue
 
-  const details = await mapLimit(set.cards, CONCURRENCY, c =>
-    getJson(`${API}/cards/${encodeURIComponent(c.id)}`).catch(() => null))
+  // TCGdex omet au hasard le prix TCGplayer (environ 1 fois sur 3): on redemande jusqu'à 2 fois
+  const details = await mapLimit(set.cards, CONCURRENCY, async c => {
+    const url = `${API}/cards/${encodeURIComponent(c.id)}`
+    let d = await getJson(url).catch(() => null)
+    for (let retry = 0; retry < 2 && d && !d.pricing?.tcgplayer; retry++) {
+      const again = await getJson(url).catch(() => null)
+      if (again?.pricing?.tcgplayer) d = again
+    }
+    return d
+  })
 
   const cards = set.cards.map((c, k) => {
     const d = details[k]
     if (d) detailOk++
     const id = ID_PREFIX + c.id
-    const eu = cardmarketEur(d?.pricing?.cardmarket)
     const usd = tcgplayerUsd(d?.pricing?.tcgplayer)
-    const us = usd != null ? round2(usd * fx.rate) : null
+    const eu = cardmarketEur(d?.pricing?.cardmarket) ?? previousPrices[id]?.eu ?? null
+    const us = usd != null ? round2(usd * fx.rate) : previousPrices[id]?.us ?? null
     if (eu != null || us != null) prices[id] = { ...(eu != null && { eu: round2(eu) }), ...(us != null && { us }) }
     if (eu != null) withEu++
     if (us != null) withUs++
