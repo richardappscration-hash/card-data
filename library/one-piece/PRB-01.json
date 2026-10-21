@@ -1,0 +1,17 @@
+{
+  "id": "PRB-01",
+  "name": "ONE PIECE CARD THE BEST",
+  "cards": [
+    {
+      "id": "PRB01-001",
+      "number": "PRB01-001",
+      "name": "Monkey D. Luffy",
+      "rarity": "SP",
+      "type": "LEADER",
+      "color": "Red",
+      "cost": null,
+      "power": 5000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png"
+    }
+  ]
+}

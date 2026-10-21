@@ -1,0 +1,67 @@
+{
+  "set": "ST-27",
+  "name": "BLACK MARSHALL D. TEACH",
+  "game": "one-piece",
+  "cards": [
+    {
+      "id": "ST27-001",
+      "number": "001",
+      "name": "Avalo Pizarro",
+      "type": "Character",
+      "color": "Black",
+      "rarity": "C",
+      "cost": 1,
+      "power": 1000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-001.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-27"
+    },
+    {
+      "id": "ST27-002",
+      "number": "002",
+      "name": "Catarina Devon",
+      "type": "Character",
+      "color": "Black",
+      "rarity": "C",
+      "cost": 1,
+      "power": 1000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-002.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-27"
+    },
+    {
+      "id": "ST27-003",
+      "number": "003",
+      "name": "Kuzan",
+      "type": "Character",
+      "color": "Black",
+      "rarity": "SR",
+      "cost": 6,
+      "power": 6000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-003.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-27"
+    },
+    {
+      "id": "ST27-004",
+      "number": "004",
+      "name": "Sanjuan.Wolf",
+      "type": "Character",
+      "color": "Black",
+      "rarity": "C",
+      "cost": 4,
+      "power": 6000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-004.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-27"
+    },
+    {
+      "id": "ST27-005",
+      "number": "005",
+      "name": "Marshall.D.Teach",
+      "type": "Character",
+      "color": "Black",
+      "rarity": "SR",
+      "cost": 7,
+      "power": 8000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-005.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-27"
+    }
+  ]
+}

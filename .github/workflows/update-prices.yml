@@ -1,0 +1,31 @@
+name: Mise a jour des prix
+
+on:
+  schedule:
+    # tcgcsv.com se met a jour vers 20:00 UTC, on passe un peu apres
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Telecharger et convertir les prix
+        run: node collector/build-prices.mjs
+
+      - name: Publier les fichiers modifies
+        run: |
+          git config user.name "card-data-bot"
+          git config user.email "card-data-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Prix du $(date -u +%F)" && git push)

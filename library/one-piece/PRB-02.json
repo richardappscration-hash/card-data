@@ -1,0 +1,228 @@
+{
+  "id": "PRB-02",
+  "name": "ONE PIECE CARD THE BEST VOL.2",
+  "cards": [
+    {
+      "id": "PRB02-001",
+      "number": "PRB02-001",
+      "name": "PRB02-001",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-001.png"
+    },
+    {
+      "id": "PRB02-002",
+      "number": "PRB02-002",
+      "name": "PRB02-002",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-002.png"
+    },
+    {
+      "id": "PRB02-003",
+      "number": "PRB02-003",
+      "name": "PRB02-003",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-003.png"
+    },
+    {
+      "id": "PRB02-004",
+      "number": "PRB02-004",
+      "name": "PRB02-004",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-004.png"
+    },
+    {
+      "id": "PRB02-005",
+      "number": "PRB02-005",
+      "name": "PRB02-005",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-005.png"
+    },
+    {
+      "id": "PRB02-006",
+      "number": "PRB02-006",
+      "name": "Roronoa Zoro",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": "Green",
+      "cost": 4,
+      "power": 4000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-006.png"
+    },
+    {
+      "id": "PRB02-006_p2",
+      "number": "PRB02-006",
+      "name": "Roronoa Zoro (SP Card)",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": "Green",
+      "cost": 4,
+      "power": 4000,
+      "alt_art": true,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p2.png"
+    },
+    {
+      "id": "PRB02-007",
+      "number": "PRB02-007",
+      "name": "PRB02-007",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-007.png"
+    },
+    {
+      "id": "PRB02-008",
+      "number": "PRB02-008",
+      "name": "PRB02-008",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-008.png"
+    },
+    {
+      "id": "PRB02-009",
+      "number": "PRB02-009",
+      "name": "PRB02-009",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-009.png"
+    },
+    {
+      "id": "PRB02-010",
+      "number": "PRB02-010",
+      "name": "PRB02-010",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-010.png"
+    },
+    {
+      "id": "PRB02-011",
+      "number": "PRB02-011",
+      "name": "PRB02-011",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-011.png"
+    },
+    {
+      "id": "PRB02-012",
+      "number": "PRB02-012",
+      "name": "PRB02-012",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-012.png"
+    },
+    {
+      "id": "PRB02-013",
+      "number": "PRB02-013",
+      "name": "PRB02-013",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-013.png"
+    },
+    {
+      "id": "PRB02-014",
+      "number": "PRB02-014",
+      "name": "Sabo",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": "Black",
+      "cost": 6,
+      "power": 6000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-014.png"
+    },
+    {
+      "id": "PRB02-014_p2",
+      "number": "PRB02-014",
+      "name": "Sabo (SP Card)",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": "Black",
+      "cost": 6,
+      "power": 6000,
+      "alt_art": true,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-014_p2.png"
+    },
+    {
+      "id": "PRB02-015",
+      "number": "PRB02-015",
+      "name": "PRB02-015",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-015.png"
+    },
+    {
+      "id": "PRB02-016",
+      "number": "PRB02-016",
+      "name": "PRB02-016",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-016.png"
+    },
+    {
+      "id": "PRB02-017",
+      "number": "PRB02-017",
+      "name": "PRB02-017",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-017.png"
+    },
+    {
+      "id": "PRB02-018",
+      "number": "PRB02-018",
+      "name": "PRB02-018",
+      "rarity": "SP",
+      "type": "CHARACTER",
+      "color": null,
+      "cost": null,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-018.png"
+    }
+  ]
+}

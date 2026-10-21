@@ -1,0 +1,10 @@
+{
+  "name": "card-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Collecteur de donnees pour Card Collector (prix, bibliotheque de cartes)",
+  "scripts": {
+    "prices": "node collector/build-prices.mjs"
+  }
+}

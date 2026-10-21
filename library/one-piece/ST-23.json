@@ -1,0 +1,67 @@
+{
+  "set": "ST-23",
+  "name": "RED SHANKS",
+  "game": "one-piece",
+  "cards": [
+    {
+      "id": "ST23-001",
+      "number": "001",
+      "name": "Uta",
+      "type": "Character",
+      "color": "Red",
+      "rarity": "SR",
+      "cost": 6,
+      "power": 4000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-23"
+    },
+    {
+      "id": "ST23-002",
+      "number": "002",
+      "name": "Shanks",
+      "type": "Character",
+      "color": "Red",
+      "rarity": "SR",
+      "cost": 9,
+      "power": 10000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-23"
+    },
+    {
+      "id": "ST23-003",
+      "number": "003",
+      "name": "Benn.Beckman",
+      "type": "Character",
+      "color": "Red",
+      "rarity": "C",
+      "cost": 4,
+      "power": 5000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-003.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-23"
+    },
+    {
+      "id": "ST23-004",
+      "number": "004",
+      "name": "Monkey.D.Luffy",
+      "type": "Character",
+      "color": "Red",
+      "rarity": "C",
+      "cost": 1,
+      "power": 2000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-23"
+    },
+    {
+      "id": "ST23-005",
+      "number": "005",
+      "name": "Yasopp",
+      "type": "Character",
+      "color": "Red",
+      "rarity": "C",
+      "cost": 1,
+      "power": 1000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-005.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-23"
+    }
+  ]
+}

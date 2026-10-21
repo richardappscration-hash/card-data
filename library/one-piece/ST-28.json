@@ -1,0 +1,67 @@
+{
+  "set": "ST-28",
+  "name": "GREEN/YELLOW YAMATO",
+  "game": "one-piece",
+  "cards": [
+    {
+      "id": "ST28-001",
+      "number": "001",
+      "name": "Ashura Doji",
+      "type": "Character",
+      "color": "Yellow",
+      "rarity": "C",
+      "cost": 3,
+      "power": 3000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-001.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-28"
+    },
+    {
+      "id": "ST28-002",
+      "number": "002",
+      "name": "Izo",
+      "type": "Character",
+      "color": "Yellow",
+      "rarity": "C",
+      "cost": 2,
+      "power": 1000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-002.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-28"
+    },
+    {
+      "id": "ST28-003",
+      "number": "003",
+      "name": "Kin'emon",
+      "type": "Character",
+      "color": "Yellow",
+      "rarity": "C",
+      "cost": 4,
+      "power": 5000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-003.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-28"
+    },
+    {
+      "id": "ST28-004",
+      "number": "004",
+      "name": "Kouzuki Momonosuke",
+      "type": "Character",
+      "color": "Yellow",
+      "rarity": "SR",
+      "cost": 6,
+      "power": 7000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-004.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-28"
+    },
+    {
+      "id": "ST28-005",
+      "number": "005",
+      "name": "Yamato",
+      "type": "Character",
+      "color": "Yellow",
+      "rarity": "SR",
+      "cost": 1,
+      "power": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-005.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-28"
+    }
+  ]
+}

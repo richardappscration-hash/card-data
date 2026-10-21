@@ -1,0 +1,67 @@
+{
+  "set": "ST-26",
+  "name": "PURPLE/BLACK MONKEY D. LUFFY",
+  "game": "one-piece",
+  "cards": [
+    {
+      "id": "ST26-001",
+      "number": "001",
+      "name": "Soba Mask",
+      "type": "Character",
+      "color": "Purple",
+      "rarity": "C",
+      "cost": 7,
+      "power": 9000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-001.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-26"
+    },
+    {
+      "id": "ST26-002",
+      "number": "002",
+      "name": "Tony Tony.Chopper",
+      "type": "Character",
+      "color": "Purple",
+      "rarity": "C",
+      "cost": 3,
+      "power": 4000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-002.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-26"
+    },
+    {
+      "id": "ST26-003",
+      "number": "003",
+      "name": "Nico Robin",
+      "type": "Character",
+      "color": "Purple",
+      "rarity": "SR",
+      "cost": 3,
+      "power": 4000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-003.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-26"
+    },
+    {
+      "id": "ST26-004",
+      "number": "004",
+      "name": "General Franky",
+      "type": "Character",
+      "color": "Purple",
+      "rarity": "C",
+      "cost": 8,
+      "power": 10000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-004.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-26"
+    },
+    {
+      "id": "ST26-005",
+      "number": "005",
+      "name": "Monkey.D.Luffy",
+      "type": "Character",
+      "color": "Purple",
+      "rarity": "SR",
+      "cost": 6,
+      "power": 7000,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-005.png",
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/ST-26"
+    }
+  ]
+}
