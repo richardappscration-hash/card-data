@@ -1,21 +1,29 @@
 {
  "game": "pokemon",
- "updatedAt": "2026-11-07T01:07:24.012Z",
+ "updatedAt": "2026-11-08T00:53:38.808Z",
  "groups": [
   {
    "label": "Méga-Évolution",
    "sets": [
     {
+     "id": "me06",
+     "name": "Règne Delta",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2026-11-06",
+     "total": 141,
+     "logo": null
+    },
+    {
      "id": "30th",
      "name": "30ᵉ Anniversaire",
      "serie": "Méga-Évolution",
      "releaseDate": "2026-09-16",
-     "total": 158,
+     "total": 161,
      "logo": null
     },
     {
      "id": "30th-c",
-     "name": "Collection Classique30ᵉ Anniversaire",
+     "name": "Collection Classique 30ᵉ Anniversaire",
      "serie": "Méga-Évolution",
      "releaseDate": "2026-09-16",
      "total": 30,
@@ -62,6 +70,14 @@
      "logo": "https://assets.tcgdex.net/fr/me/me02/logo"
     },
     {
+     "id": "mep",
+     "name": "MEP Black Star Promos",
+     "serie": "Méga-Évolution",
+     "releaseDate": "2025-09-26",
+     "total": 108,
+     "logo": null
+    },
+    {
      "id": "me01",
      "name": "Méga-Évolution",
      "serie": "Méga-Évolution",
@@ -70,19 +86,11 @@
      "logo": "https://assets.tcgdex.net/fr/me/me01/logo"
     },
     {
-     "id": "mep",
-     "name": "MEP Black Star Promos",
-     "serie": "Méga-Évolution",
-     "releaseDate": "2025-09-26",
-     "total": 88,
-     "logo": null
-    },
-    {
      "id": "mee",
      "name": "Méga-Évolution Énergie",
      "serie": "Méga-Évolution",
      "releaseDate": "2025-09-25",
-     "total": 8,
+     "total": 16,
      "logo": null
     }
    ]
@@ -91,20 +99,20 @@
    "label": "Écarlate et Violet",
    "sets": [
     {
-     "id": "sv10.5b",
-     "name": "Foudre Noire",
-     "serie": "Écarlate et Violet",
-     "releaseDate": "2025-07-17",
-     "total": 172,
-     "logo": "https://assets.tcgdex.net/fr/sv/sv10.5b/logo"
-    },
-    {
      "id": "sv10.5w",
      "name": "Flamme Blanche",
      "serie": "Écarlate et Violet",
      "releaseDate": "2025-07-17",
      "total": 173,
      "logo": "https://assets.tcgdex.net/fr/sv/sv10.5w/logo"
+    },
+    {
+     "id": "sv10.5b",
+     "name": "Foudre Noire",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2025-07-17",
+     "total": 172,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv10.5b/logo"
     },
     {
      "id": "sv10",
@@ -211,20 +219,20 @@
      "logo": "https://assets.tcgdex.net/fr/sv/sv02/logo"
     },
     {
-     "id": "sv01",
-     "name": "Écarlate et Violet",
-     "serie": "Écarlate et Violet",
-     "releaseDate": "2023-03-31",
-     "total": 258,
-     "logo": "https://assets.tcgdex.net/fr/sv/sv01/logo"
-    },
-    {
      "id": "sve",
      "name": "Écarlate et Violet Énergie",
      "serie": "Écarlate et Violet",
      "releaseDate": "2023-03-31",
      "total": 24,
      "logo": null
+    },
+    {
+     "id": "sv01",
+     "name": "Écarlate et Violet",
+     "serie": "Écarlate et Violet",
+     "releaseDate": "2023-03-31",
+     "total": 258,
+     "logo": "https://assets.tcgdex.net/fr/sv/sv01/logo"
     },
     {
      "id": "svp",
@@ -349,20 +357,20 @@
    "label": "Épée et Bouclier",
    "sets": [
     {
-     "id": "swsh12.5",
-     "name": "Zénith Suprême",
-     "serie": "Épée et Bouclier",
-     "releaseDate": "2023-01-20",
-     "total": 160,
-     "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo"
-    },
-    {
      "id": "swsh12.5gg",
      "name": "Zénith Suprême Galerie Galaroise",
      "serie": "Épée et Bouclier",
      "releaseDate": "2023-01-20",
      "total": 70,
      "logo": null
+    },
+    {
+     "id": "swsh12.5",
+     "name": "Zénith Suprême",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2023-01-20",
+     "total": 160,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo"
     },
     {
      "id": "swsh12",
@@ -421,20 +429,20 @@
      "logo": null
     },
     {
-     "id": "swsh9tg",
-     "name": "Stars Étincelantes Galerie de Dresseurs",
-     "serie": "Épée et Bouclier",
-     "releaseDate": "2022-02-25",
-     "total": 30,
-     "logo": null
-    },
-    {
      "id": "swsh9",
      "name": "Stars Étincelantes",
      "serie": "Épée et Bouclier",
      "releaseDate": "2022-02-25",
      "total": 186,
      "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo"
+    },
+    {
+     "id": "swsh9tg",
+     "name": "Stars Étincelantes Galerie de Dresseurs",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2022-02-25",
+     "total": 30,
+     "logo": null
     },
     {
      "id": "swsh8",
@@ -485,20 +493,20 @@
      "logo": "https://assets.tcgdex.net/fr/swsh/swsh5/logo"
     },
     {
-     "id": "swsh4.5",
-     "name": "Destinées Radieuses",
-     "serie": "Épée et Bouclier",
-     "releaseDate": "2021-02-19",
-     "total": 73,
-     "logo": "https://assets.tcgdex.net/fr/swsh/swsh4.5/logo"
-    },
-    {
      "id": "swsh4.5sv",
      "name": "Destinées Radieuses Coffre Étincelant",
      "serie": "Épée et Bouclier",
      "releaseDate": "2021-02-19",
      "total": 122,
      "logo": null
+    },
+    {
+     "id": "swsh4.5",
+     "name": "Destinées Radieuses",
+     "serie": "Épée et Bouclier",
+     "releaseDate": "2021-02-19",
+     "total": 73,
+     "logo": "https://assets.tcgdex.net/fr/swsh/swsh4.5/logo"
     },
     {
      "id": "swsh4",
@@ -562,20 +570,20 @@
      "logo": "https://assets.tcgdex.net/fr/sm/sm12/logo"
     },
     {
-     "id": "sma",
-     "name": "Destinées Occultes Coffre Étincelant",
-     "serie": "Soleil et Lune",
-     "releaseDate": "2019-08-23",
-     "total": 94,
-     "logo": null
-    },
-    {
      "id": "sm115",
      "name": "Destinées Occultes",
      "serie": "Soleil et Lune",
      "releaseDate": "2019-08-23",
      "total": 69,
      "logo": "https://assets.tcgdex.net/fr/sm/sm115/logo"
+    },
+    {
+     "id": "sma",
+     "name": "Destinées Occultes Coffre Étincelant",
+     "serie": "Soleil et Lune",
+     "releaseDate": "2019-08-23",
+     "total": 94,
+     "logo": null
     },
     {
      "id": "sm11",
@@ -703,14 +711,6 @@
    "label": "Kits du dresseur",
    "sets": [
     {
-     "id": "tk-sm-r",
-     "name": "SM Kit du dresseur (Raichu d'Alola)",
-     "serie": "Kits du dresseur",
-     "releaseDate": "2017-04-21",
-     "total": 19,
-     "logo": null
-    },
-    {
      "id": "tk-sm-l",
      "name": "SM Kit du dresseur (Lougarox)",
      "serie": "Kits du dresseur",
@@ -719,16 +719,24 @@
      "logo": null
     },
     {
-     "id": "tk-xy-p",
-     "name": "XY Kit du dresseur (Pikachu Libre)",
+     "id": "tk-sm-r",
+     "name": "SM Kit du dresseur (Raichu d'Alola)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2017-04-21",
+     "total": 19,
+     "logo": null
+    },
+    {
+     "id": "tk-xy-su",
+     "name": "XY Kit du dresseur (Suicune)",
      "serie": "Kits du dresseur",
      "releaseDate": "2016-04-27",
      "total": 30,
      "logo": null
     },
     {
-     "id": "tk-xy-su",
-     "name": "XY Kit du dresseur (Suicune)",
+     "id": "tk-xy-p",
+     "name": "XY Kit du dresseur (Pikachu Libre)",
      "serie": "Kits du dresseur",
      "releaseDate": "2016-04-27",
      "total": 30,
@@ -767,14 +775,6 @@
      "logo": null
     },
     {
-     "id": "tk-xy-n",
-     "name": "XY Kit du dresseur (Bruyverne)",
-     "serie": "Kits du dresseur",
-     "releaseDate": "2014-03-12",
-     "total": 30,
-     "logo": null
-    },
-    {
      "id": "tk-xy-sy",
      "name": "XY Kit du dresseur (Nymphali)",
      "serie": "Kits du dresseur",
@@ -783,16 +783,24 @@
      "logo": null
     },
     {
-     "id": "tk-bw-e",
-     "name": "BW Kit du dresseur (Minitaupe)",
+     "id": "tk-xy-n",
+     "name": "XY Kit du dresseur (Bruyverne)",
      "serie": "Kits du dresseur",
-     "releaseDate": "2011-09-01",
+     "releaseDate": "2014-03-12",
      "total": 30,
      "logo": null
     },
     {
      "id": "tk-bw-z",
      "name": "BW Kit du dresseur (Zoroark)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2011-09-01",
+     "total": 30,
+     "logo": null
+    },
+    {
+     "id": "tk-bw-e",
+     "name": "BW Kit du dresseur (Minitaupe)",
      "serie": "Kits du dresseur",
      "releaseDate": "2011-09-01",
      "total": 30,
@@ -831,14 +839,6 @@
      "logo": null
     },
     {
-     "id": "tk-ex-m",
-     "name": "EX Kit dresseur (Négapi)",
-     "serie": "Kits du dresseur",
-     "releaseDate": "2006-03-01",
-     "total": 12,
-     "logo": null
-    },
-    {
      "id": "tk-ex-p",
      "name": "EX Kit dresseur (Positi)",
      "serie": "Kits du dresseur",
@@ -847,16 +847,24 @@
      "logo": null
     },
     {
-     "id": "tk-ex-latia",
-     "name": "EX Kit dresseur (Latias)",
+     "id": "tk-ex-m",
+     "name": "EX Kit dresseur (Négapi)",
+     "serie": "Kits du dresseur",
+     "releaseDate": "2006-03-01",
+     "total": 12,
+     "logo": null
+    },
+    {
+     "id": "tk-ex-latio",
+     "name": "EX Kit dresseur (Latios)",
      "serie": "Kits du dresseur",
      "releaseDate": "2004-07-01",
      "total": 10,
      "logo": null
     },
     {
-     "id": "tk-ex-latio",
-     "name": "EX Kit dresseur (Latios)",
+     "id": "tk-ex-latia",
+     "name": "EX Kit dresseur (Latias)",
      "serie": "Kits du dresseur",
      "releaseDate": "2004-07-01",
      "total": 10,
@@ -1306,20 +1314,20 @@
      "logo": "https://assets.tcgdex.net/fr/dp/dp2/logo"
     },
     {
-     "id": "dpp",
-     "name": "Promo DP",
-     "serie": "Diamant & Perle",
-     "releaseDate": "2007-05-01",
-     "total": 42,
-     "logo": null
-    },
-    {
      "id": "dp1",
      "name": "Diamant & Perle",
      "serie": "Diamant & Perle",
      "releaseDate": "2007-05-01",
      "total": 130,
      "logo": "https://assets.tcgdex.net/fr/dp/dp1/logo"
+    },
+    {
+     "id": "dpp",
+     "name": "Promo DP",
+     "serie": "Diamant & Perle",
+     "releaseDate": "2007-05-01",
+     "total": 42,
+     "logo": null
     }
    ]
   },
@@ -1375,20 +1383,20 @@
      "logo": "https://assets.tcgdex.net/fr/ex/ex11/logo"
     },
     {
-     "id": "ex10",
-     "name": "EX Forces Cachées",
-     "serie": "EX",
-     "releaseDate": "2005-08-22",
-     "total": 117,
-     "logo": "https://assets.tcgdex.net/fr/ex/ex10/logo"
-    },
-    {
      "id": "exu",
      "name": "EX Forces Cachées Collection Zarbi",
      "serie": "EX",
      "releaseDate": "2005-08-22",
      "total": 28,
      "logo": null
+    },
+    {
+     "id": "ex10",
+     "name": "EX Forces Cachées",
+     "serie": "EX",
+     "releaseDate": "2005-08-22",
+     "total": 117,
+     "logo": "https://assets.tcgdex.net/fr/ex/ex10/logo"
     },
     {
      "id": "ex9",
