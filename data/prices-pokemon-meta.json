@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-11T01:25:20.149Z",
+ "updatedAt": "2026-11-12T02:25:14.968Z",
  "source": "TCGdex (Cardmarket pour l'Europe, TCGplayer pour les US)",
- "rateUsdEur": 0.89174,
- "rateDate": "2026-11-10",
+ "rateUsdEur": 0.89871,
+ "rateDate": "2026-11-11",
  "counts": {
   "cards": 20226,
-  "priced": 19774,
+  "priced": 19776,
   "eu": 19430,
-  "us": 18648
+  "us": 18650
  }
 }
