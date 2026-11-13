@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-12T02:23:05.107Z",
+ "updatedAt": "2026-11-13T02:01:00.182Z",
  "source": "tcgcsv.com (TCGplayer, marche americain)",
  "currency": "EUR",
- "rateUsdEur": 0.89871,
- "rateDate": "2026-11-11",
+ "rateUsdEur": 0.90245,
+ "rateDate": "2026-11-12",
  "counts": {
   "library": 2812,
   "priced": 2640,
